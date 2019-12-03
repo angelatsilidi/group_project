@@ -1,0 +1,28 @@
+body {
+  color: black};
+font-family: times new roman;
+margin: 10px;
+}
+
+div {
+  min-height: 10vh;
+  width:100vw;
+}
+
+h1, h2 {
+  text-align: center;
+}
+h1 {
+  font-size: 2em;
+  font-family:sans-serif;
+}
+
+h2 {
+  font-size: 2em;
+  font-family:sans-serif;
+}
+
+h2,em{
+  font-size: 2em;
+
+}
