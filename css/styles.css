@@ -1,4 +1,5 @@
 body {
+<<<<<<< Updated upstream
   color: black};
 font-family: times new roman;
 margin: 10px;
@@ -26,3 +27,38 @@ h2,em{
   font-size: 2em;
 
 }
+=======
+  color: rgb(190, 100, 5);
+  font-family: arial;
+  margin: 100px;
+}
+h1 {
+  color: rgba(255, 0, 0, 0.5);
+  text-align: center;
+  font-size: 100px;
+}
+h2 {
+  text-align: left;
+  font-size: 50px;
+}
+img {
+  align-content: right;
+}
+.img-festivalpink {
+  align-content: space-between;
+  width: 250px;
+  height: 200px;
+  background-image: url(img-festivalpink);
+}
+.img-festivalkeyboard {
+  width: 250px;
+  height: 200px;
+}
+h3 {
+  font-size: 50px;
+}
+p {
+  font-size: 25px;
+}
+div
+>>>>>>> Stashed changes
