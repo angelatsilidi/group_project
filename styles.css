@@ -1,0 +1,162 @@
+body {
+  color: black;
+}
+{
+  background-color: black;
+}
+font-family: times new roman;
+margin: 10px;
+}
+
+div {
+  min-height: 10vh;
+  width:100vw;
+}
+
+h1, h2 {
+  text-align: center;
+  color: 'red';
+}
+h1 {
+  font-size: 2em;
+  font-family: monospace;
+}
+
+h2 {
+  font-size: 2em;
+  font-family:sans-serif;
+}
+
+h2,em{
+  font-size: 2em;
+  font-family: monospace;
+
+}
+h3 {
+  font-family:monospace;
+}
+
+
+ul{
+list-style: armenian;
+  padding: 10px;
+  margin-bottom: 10%;
+  font-size: 14px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+li {
+  margin-left: 2em;
+  list-style-type: none;
+}
+
+nav {
+  color: #4CAF50;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  fnt-size: 16px;
+  cursor: pointer;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width: 160px;
+}
+
+.navbar {
+  margin: 0 !important;
+}
+
+.navbar-brand {
+  padding: 15px !important;
+  color: #161616 !important;
+}
+
+.navbar-nav {
+  margin-top: 7.5px !important;
+  margin-right: -15px !important;
+  margin-bottom: 7.5px !important;
+  margin-left: -15px !important;
+}
+
+.nav-link {
+  color: #64a19d !important;
+
+}
+
+.masthead{
+  margin-top:-50px
+}
+#myCarousel
+  ol{
+
+  }
+}
+#page-top {
+  background-color:#262626
+
+
+#signup {
+text-align: center;
+}
+
+#navbarMonths
+  a{ color: white !important;
+    margin-left: 8px
+
+}
+
+#navbarResponsive
+
+a { margin-left: 5em;
+display: inline;
+}
+
+#page-top {
+  background-color:#262626 !important; }
+
+
+#mainNav
+a{ color: white !important;
+
+}
+
+#navbarResponsive
+a{
+  margin-left: 800px;
+  margin-right: 80px;
+}
+
+#Jan {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+#Feb {
+  margin-right: -16px;
+}
+
+#signup
+
+h2{ text-align: center;
+}
+#Jan {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+#Feb {
+  margin-right: -16px;
+}
+img[usemap], map area{
+    outline: none;
+}
